@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">trident</string>
+    <string name="First">Hello World!</string>
+    <string name="Second">I am a great developer</string>
+    <string name="Third">check</string>
+    <string name="Fourth">check again</string>
+    <string name="fifth">No, you are a beginner</string>
+</resources>
